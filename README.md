@@ -27,3 +27,11 @@ Pada bagian product list, saya merubah background setiap product dengan menambah
 #### After
 ![image](https://github.com/Arsikamarwah/ReDesign-Web-Blinkee/assets/147859897/7d222033-be17-4fbc-99f9-e33e3b2c12be)
 Pada bagian footer, saya merubah ukuran footer menjadi lebih kecil agar tidak memakan banyak tempat dan mengurangi kata kata yang tidak perlu dan juga menambahkan copyright. 
+
+# Website
+#### Before
+![WhatsApp Image 2024-05-12 at 10 50 40 PM](https://github.com/Arsikamarwah/ReDesign-Web-Blinkee/assets/147859897/792ce34c-cdae-427c-b029-e83557fe0d4d)
+#### After 
+![WhatsApp Image 2024-05-12 at 10 50 40 PM (1)](https://github.com/Arsikamarwah/ReDesign-Web-Blinkee/assets/147859897/dc413101-6b90-4194-9495-9087d349de1b)
+
+
